@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="MySoftKey">
+        <attr name="textSize" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="MyEditText">
+        <attr name="enableAlpha" format="boolean"></attr>
+    </declare-styleable>
+</resources>
